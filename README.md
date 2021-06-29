@@ -33,27 +33,25 @@ $RAFF total supply is: 1,000,000 Tokens
 
 Such total supply will be distributed as follows:
 
-2% for Airdrop. These tokens are locked until distribution date (June 19, 2021);
+- 20% Private pre-sale: Lock until 19.6.22
 
-3.50% of the total supply is destined to Marketing Strategies. Locked until such strategies are deploys on August 31, 2021;
+- 4.5 % Team: Lock until 31.9.22
 
-4.50% is allocated for the Team. These are locked until January 1, 2022;
+- 3.5% Marketing: Lock until 20.10.21
 
-10% Liquidity for other exchanges v. 2.0. Locked until November 30, 2021;
+- 50% Will be added as liquidity in decentralized exchanges for the fair launch
 
-30% Initial Token Burn;
+- 22% Burn
 
-50% of the Tokens are destined to the Public Sale.
-
-*Links to the locked tokens can be found on Raff's webpage.
-
-The verified contract can be found in BscScan: 0xCb588B2E238c07D44Cb3E2424e9773a9025415B5
+The private sale presale already took place for a selected group of whitelisted people, successfully rising 200 BNB which will be seeded as liquidity for the fair launch.
 
 Stake $RAFF just by holding it!
 
-RAFF's smart contract is set to charge a fee for every transaction made. This means that, for every purchase or sale of the token, 8% of the total amount of the transaction is allocated as follows: (i) 5% to be locked in the liquidity pool up to 2035 and (ii) to be distributed between all RAFF's holders.
-
+RAFF’s smart contract is set to charge a fee for every transaction made. This means that, for every purchase or sale of the token, 8% of the total amount of the transaction is allocated as follows: (i) 5% to be locked in the liquidity pool up to 2035 and (ii) to be distributed between all RAFF’s holders.
 So, YES!, you earn more RAFF just by holding RAFF.
+
+Raffle investments will give away a brand new iPhone 12 64 GB factory unlocked among the first 100 wallets buying RAFF on the fair Launch. Such wallets will receive a ticket to participate in the raffle for every 0.50 BNB bought.
+
 
 HOW DOES RAFFLE WORK?
 
